@@ -1,4 +1,4 @@
-# Ranking Dataset
+# Curated Ranking Data Set
 
 This set contains pairs of sentences annotated on a 6 point scale by how well the match the causality expressed in an exemplary prompt containing a causal connective and at least a cause or an effect.
 Examples of such prompts are:

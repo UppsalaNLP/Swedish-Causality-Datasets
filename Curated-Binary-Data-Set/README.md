@@ -1,4 +1,4 @@
-# Main Binary Dataset
+# Curated Binary Data Set
 
 This set contains individual sentences annotated for the presence of causal relations.
 
