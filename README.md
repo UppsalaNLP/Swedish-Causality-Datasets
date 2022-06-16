@@ -7,7 +7,11 @@ Both the binary trial and curated binary sets focus on the causality as a binary
 The curated ranking data set compares two target sentences on a 6 point scale as to whether they express a causal relation that matches the given prompt.
 
 
-All text is taken from Swedish Government Official Reports, specifically, the sentences were extracted from the [SOU-corpus](https://github.com/UppsalaNLP/SOU-corpus), More detailed descriptions of how the data sets where created can be found in TBD. A description of the format and annotation scheme of each set is given in the respective directories.
+All text is taken from Swedish Government Official Reports, specifically, the sentences were extracted from the [SOU-corpus](https://github.com/UppsalaNLP/SOU-corpus). More detailed descriptions of how the data sets where created can be found in:
+
+> Luise Dürlich, Sebastian Reimann, Gustav Finnveden, Joakim Nivre and Sara Stymne. Cause and Effect in Governmental Reports: Two Data Sets for Causality Detection in Swedish. In Proceedings of the First Workshop on Natural Language Processing for Political Sciences. June 24, 2022. Marseilles, France.
+
+A description of the format and annotation scheme of each set is given in the respective directories.
 
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
